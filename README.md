@@ -2,7 +2,7 @@
 Dive into the ultimate movie experience with our sleek and intuitive React-based movie website. Search for movies by title, sort them by genre, or view trending and upcoming movies. SMWZ ensures a user-friendly and visually appealing journey through the world of movies.
 <hr/>
 
-![background](https://user-images.githubusercontent.com/87109400/231843668-00e0d9aa-8447-4148-8a3a-0b68135c0795.png)
+![SMWZ1](https://github.com/Munis2003/SMWZ-MOVIE-WEBAPP/assets/115029476/3bfe1e92-6466-4a76-842d-9b6ed1da8d67)
 
 <hr/>
 
