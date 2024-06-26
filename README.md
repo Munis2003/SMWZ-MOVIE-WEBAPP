@@ -57,5 +57,5 @@ Note: Ensure that you have carefully added the TMDB API key configuration to you
 <hr/>
 
 # Demo 
-https://www.loom.com/share/f689f41c8e4a4458b6f2455d1ccd0f4c?sid=c3699128-55ac-49bd-89fc-a8caf635e084
+https://github.com/Munis2003/SMWZ-MOVIE-WEBAPP/assets/115029476/8df05338-684f-4208-87d0-a2e59fe0e9d3
 
