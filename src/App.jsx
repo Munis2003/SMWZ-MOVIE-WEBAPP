@@ -9,13 +9,9 @@ import { MovieProvider } from "./Contextpage";
 import 'react-toastify/dist/ReactToastify.css';
 import Player from './pages/Player';
 
-
-
 function App() {
-
   return (
     <>
-      
 <MovieProvider>
 <div className='flex bg-[#0a1016]'>
 <Navbar/>
