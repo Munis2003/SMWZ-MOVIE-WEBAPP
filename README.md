@@ -57,5 +57,5 @@ Note: Ensure that you have carefully added the TMDB API key configuration to you
 <hr/>
 
 # Demo 
-https://github.com/tushar-2223/BlueBird-Movies/assets/87109400/2c13988f-d058-456b-a2e3-f3b716646fe6
+https://www.loom.com/share/f689f41c8e4a4458b6f2455d1ccd0f4c?sid=c3699128-55ac-49bd-89fc-a8caf635e084
 
